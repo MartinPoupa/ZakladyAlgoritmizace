@@ -1,0 +1,2 @@
+poemLyrics = "Vodník\nK. J. Erben\n\nNa topole nad jezerem\njezdil Vodník s buldozerem:\nSviť, měsíčku, sviť,\nať mi šije niť.\n\nRáno, raníčko panna vstala\nhubu sobě zmalovala:\nJdu matičko k jezeru,\nna práci se ti vyseru."
+print(poemLyrics)

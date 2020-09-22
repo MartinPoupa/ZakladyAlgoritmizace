@@ -1,1 +1,1 @@
-# ZakladyAlgoritmizace
+# Zaklady Algoritmizace
