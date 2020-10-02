@@ -1,11 +1,6 @@
 from PIL import Image, ImageDraw
 
-
-
-
-
 img = Image.new('RGB', (150, 150), color = (255, 255, 255))
-
 
 draw = ImageDraw.Draw(img)
 
